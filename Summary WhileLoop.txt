@@ -1,0 +1,83 @@
+WhileLoop - Application
+	Summary: Stories of Professional Software Mistakes for Benefit and Edification of other programmers
+		Site Layout
+			Styling
+			Nav Bar
+				DropDown of Groups
+					Grouping of C#, SQL, MVC, Javascript, React.js, etc..
+				User info
+				Search Capability
+				
+					Go to another view
+			
+			Summary Instructions
+			Blogs (organized as Administrators deem appropriate: chronological)
+				UserName displayed 
+		
+		
+	
+	Non-Admin User Story
+		User navigate to Site (www.whileloop.com)
+			All Users - Read posts
+			New Users:
+				Create a User Profile (new view)
+					Add a photo/picture/or draw a picture
+			Authenticated Users - CRUD posts
+				Create Post
+					Select Appropriate category - dropdown list (multiple)
+					Submit Post for Review
+					
+	Admin User Story (Administrative Privileges)
+		 Additional privileges beyond basic authenticated user
+		 Login to Site
+			Review blogs
+				Accept/Reject
+			Review Users
+				Accept/Reject
+			
+			
+	Admin Privileges
+		CRUD posts	
+		Accept/Deny posts
+		
+	Base User Privileges
+		Create, Read, Update, Delete their own posts??
+		
+Framework (Round 1)
+	ASP.NET MVC
+	C#
+	Entity Framework - code first or database first
+	Hosting (AWS - possible Authentication tools)
+	Front End
+		Javascript
+		Razor
+		Bootstrap, CSS
+		JQuery - AJAX
+	
+	Middle Layer
+		AutoFac
+		
+Repository
+	GIT
+	
+	
+Future's
+	WhiteBoard Option
+	
+	
+		
+	
+		
+	
+			
+				
+			
+		
+	
+	
+	
+	
+	
+	
+	Authentication
+	
